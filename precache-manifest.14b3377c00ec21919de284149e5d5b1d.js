@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1078b594b091847fc862c8be1b9f687a",
+    "revision": "aee8e291e0450412706e248d7a327f84",
     "url": "/react-tateti/index.html"
   },
   {
-    "revision": "25ccd5b7720635bd122a",
-    "url": "/react-tateti/static/css/main.c49af987.chunk.css"
+    "revision": "938a685d49139704bb3f",
+    "url": "/react-tateti/static/css/main.cd5c9d52.chunk.css"
   },
   {
     "revision": "3f7083e6c4b6cfe2113e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-tateti/static/js/2.df29fb57.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25ccd5b7720635bd122a",
-    "url": "/react-tateti/static/js/main.aef2f1f5.chunk.js"
+    "revision": "938a685d49139704bb3f",
+    "url": "/react-tateti/static/js/main.c5428590.chunk.js"
   },
   {
     "revision": "df69ee9e4da15b00319c",

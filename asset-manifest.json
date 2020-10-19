@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-tateti/static/css/main.c49af987.chunk.css",
-    "main.js": "/react-tateti/static/js/main.aef2f1f5.chunk.js",
-    "main.js.map": "/react-tateti/static/js/main.aef2f1f5.chunk.js.map",
+    "main.css": "/react-tateti/static/css/main.cd5c9d52.chunk.css",
+    "main.js": "/react-tateti/static/js/main.c5428590.chunk.js",
+    "main.js.map": "/react-tateti/static/js/main.c5428590.chunk.js.map",
     "runtime-main.js": "/react-tateti/static/js/runtime-main.11e35204.js",
     "runtime-main.js.map": "/react-tateti/static/js/runtime-main.11e35204.js.map",
     "static/js/2.df29fb57.chunk.js": "/react-tateti/static/js/2.df29fb57.chunk.js",
     "static/js/2.df29fb57.chunk.js.map": "/react-tateti/static/js/2.df29fb57.chunk.js.map",
     "index.html": "/react-tateti/index.html",
-    "precache-manifest.1a018b1581fbefc35ceee7e7e26019f4.js": "/react-tateti/precache-manifest.1a018b1581fbefc35ceee7e7e26019f4.js",
+    "precache-manifest.14b3377c00ec21919de284149e5d5b1d.js": "/react-tateti/precache-manifest.14b3377c00ec21919de284149e5d5b1d.js",
     "service-worker.js": "/react-tateti/service-worker.js",
-    "static/css/main.c49af987.chunk.css.map": "/react-tateti/static/css/main.c49af987.chunk.css.map",
+    "static/css/main.cd5c9d52.chunk.css.map": "/react-tateti/static/css/main.cd5c9d52.chunk.css.map",
     "static/js/2.df29fb57.chunk.js.LICENSE.txt": "/react-tateti/static/js/2.df29fb57.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.11e35204.js",
     "static/js/2.df29fb57.chunk.js",
-    "static/css/main.c49af987.chunk.css",
-    "static/js/main.aef2f1f5.chunk.js"
+    "static/css/main.cd5c9d52.chunk.css",
+    "static/js/main.c5428590.chunk.js"
   ]
 }
